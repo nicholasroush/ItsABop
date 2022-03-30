@@ -1,5 +1,5 @@
 const clientId = process.env.REACT_APP_CLIENT_ID;
-const redirectUri = 'https://nicholasroush.github.io';
+const redirectUri = 'https://nicholasroush.github.io/itsabop/';
 
 let accessToken;
 
