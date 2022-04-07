@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/itsabop/static/css/main.2d23ffeb.chunk.css",
+    "main.css": "/itsabop/static/css/main.50e08aef.chunk.css",
     "main.js": "/itsabop/static/js/main.7afa3018.chunk.js",
     "main.js.map": "/itsabop/static/js/main.7afa3018.chunk.js.map",
     "runtime-main.js": "/itsabop/static/js/runtime-main.e55c2e82.js",
@@ -8,14 +8,14 @@
     "static/js/2.0b270d54.chunk.js": "/itsabop/static/js/2.0b270d54.chunk.js",
     "static/js/2.0b270d54.chunk.js.map": "/itsabop/static/js/2.0b270d54.chunk.js.map",
     "index.html": "/itsabop/index.html",
-    "static/css/main.2d23ffeb.chunk.css.map": "/itsabop/static/css/main.2d23ffeb.chunk.css.map",
+    "static/css/main.50e08aef.chunk.css.map": "/itsabop/static/css/main.50e08aef.chunk.css.map",
     "static/js/2.0b270d54.chunk.js.LICENSE.txt": "/itsabop/static/js/2.0b270d54.chunk.js.LICENSE.txt",
     "static/media/App.css": "/itsabop/static/media/background_photo_desktop.a0687f3f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e55c2e82.js",
     "static/js/2.0b270d54.chunk.js",
-    "static/css/main.2d23ffeb.chunk.css",
+    "static/css/main.50e08aef.chunk.css",
     "static/js/main.7afa3018.chunk.js"
   ]
 }
